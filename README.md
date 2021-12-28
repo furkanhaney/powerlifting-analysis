@@ -19,3 +19,7 @@ python download.py
 ## Regression
 
 ![](/viz/reg_lift.png)
+
+## License
+
+MIT License

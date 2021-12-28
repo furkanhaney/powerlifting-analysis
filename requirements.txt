@@ -1,6 +1,7 @@
 # Exploratory Analysis
 pandas
 plotly
+statsmodels
 
 # Infrastructure
 wheel
