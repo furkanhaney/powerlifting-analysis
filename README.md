@@ -9,3 +9,13 @@ This project analyzes the open powerlifting data that can be found at https://ww
 ```
 python download.py
 ```
+
+## Charts
+
+![](/viz/age.png)
+![](/viz/age_total.png)
+![](/viz/squat_deadlift.png)
+
+## Regression
+
+![](/viz/reg_lift.png)

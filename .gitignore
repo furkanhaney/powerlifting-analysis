@@ -1,2 +1,5 @@
-/data/extracted/*
-/data/original/*
+data/extracted/*
+data/original/*
+
+venv
+.ipynb_checkpoints/

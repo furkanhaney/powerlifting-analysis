@@ -1,0 +1,8 @@
+# Exploratory Analysis
+pandas
+plotly
+
+# Infrastructure
+wheel
+ipykernel
+nbformat
